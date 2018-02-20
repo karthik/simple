@@ -2,3 +2,4 @@
 ^\.Rproj\.user$
 appveyor.yml
 tic.R
+.travis.yml
