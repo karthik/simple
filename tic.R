@@ -11,5 +11,4 @@ if (Sys.getenv("id_rsa") != "") {
 
   get_stage("deploy") %>%
     add_step(step_build_pkgdown()) %>%
-    add_step(step_push_deploy(path = "docs", branch = "gh-pages"))
-}
+    add_step(step_push_deploy())
