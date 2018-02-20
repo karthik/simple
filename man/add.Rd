@@ -7,7 +7,7 @@
 add(a, b)
 }
 \arguments{
-\item{a}{First number}
+\item{a}{First number. Must be integer}
 
 \item{b}{Second number}
 }

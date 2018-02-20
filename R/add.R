@@ -2,10 +2,9 @@
 
 #' Add two numbers
 #'
-#' @param a First number
+#' @param a First number. Must be integer
 #' @param b Second number
 #'
-#' @return
 #' @export
 #'
 #' @examples
